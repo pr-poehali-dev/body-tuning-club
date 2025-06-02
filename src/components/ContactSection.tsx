@@ -4,7 +4,7 @@ import Icon from "@/components/ui/icon";
 
 const ContactSection = () => {
   return (
-    <section className="py-20 bg-gradient-to-b from-gray-50 to-gray-100">
+    <section className="py-20 bg-gradient-to-b from-white-grape to-lime-cream">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6 font-montserrat">
@@ -20,7 +20,7 @@ const ContactSection = () => {
           <div className="grid md:grid-cols-2 gap-8 mb-12">
             <Card className="hover:shadow-xl transition-all duration-300 border-0 shadow-lg">
               <CardContent className="p-8 text-center">
-                <div className="w-16 h-16 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                <div className="w-16 h-16 bg-gradient-to-r from-crocus to-purple-500 rounded-full flex items-center justify-center mx-auto mb-6">
                   <Icon name="MapPin" size={24} className="text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-4 text-gray-800 font-montserrat">
@@ -35,7 +35,7 @@ const ContactSection = () => {
 
             <Card className="hover:shadow-xl transition-all duration-300 border-0 shadow-lg">
               <CardContent className="p-8 text-center">
-                <div className="w-16 h-16 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                <div className="w-16 h-16 bg-gradient-to-r from-crocus to-purple-500 rounded-full flex items-center justify-center mx-auto mb-6">
                   <Icon name="Clock" size={24} className="text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-4 text-gray-800 font-montserrat">

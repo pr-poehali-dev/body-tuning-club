@@ -24,6 +24,10 @@ export default {
         sans: ["Inter", "sans-serif"],
       },
       colors: {
+        // Новая цветовая палитра
+        "lime-cream": "#F0FDF4", // светло-зеленый
+        "white-grape": "#F3F4F6", // светло-лавандовый
+        crocus: "#7C3AED", // фиолетовый
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",

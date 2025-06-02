@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const HeroSection = () => {
   return (
-    <section className="min-h-screen bg-gradient-to-br from-purple-600 via-pink-600 to-orange-500 text-white relative overflow-hidden">
+    <section className="min-h-screen bg-gradient-to-br from-crocus via-purple-500 to-lime-cream text-white relative overflow-hidden">
       <div className="absolute inset-0 bg-black/20" />
 
       <div className="relative z-10 container mx-auto px-4 flex items-center min-h-screen">

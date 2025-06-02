@@ -25,7 +25,7 @@ const BenefitsSection = () => {
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-r from-purple-600 to-pink-600 text-white">
+    <section className="py-20 bg-gradient-to-r from-crocus to-purple-500 text-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 font-montserrat">
